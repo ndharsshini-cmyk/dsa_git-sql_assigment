@@ -69,6 +69,8 @@ c. Count the number of records in another table
 
 dbGetQuery(con, "SELECT COUNT(*) FROM demographics_clean;")
 
+hello 
+
 ```
 d. Join two tables and display the first 5 results
 

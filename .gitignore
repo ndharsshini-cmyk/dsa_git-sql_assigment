@@ -49,3 +49,4 @@ po/*~
 rsconnect/
 assignment_soultions.Rmd
 .DS_Store
+/data
